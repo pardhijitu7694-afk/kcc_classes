@@ -1,0 +1,25 @@
+{
+  "name": "react-js-turorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "jitendra pardhi",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "path": "^0.12.7"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^17.2.2",
+    "express-ejs-layouts": "^2.5.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.1",
+    "nodemailer": "^7.0.6"
+  }
+}
